@@ -1,8 +1,8 @@
-###Kia ora I'm Luke!
+### Kia ora I'm Luke!
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luke-stynes/)
-<!---[![TikTok Badge](https://img.shields.io/badge/TikTok-Follow-blue)](https://www.tiktok.com/@lukestynes?)--->
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/luke.stynes/)
+<!---[![TikTok Badge](https://img.shields.io/badge/TikTok-Follow-blue)](https://www.tiktok.com/@lukestynes?)--->
 
 I am a software engineering student trying to find where I want to specialise and direct my career. I currently love all aspects of development and engineering and am open to anything.
 
