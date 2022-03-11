@@ -12,6 +12,6 @@ I am a software engineering student trying to find where I want to specialise an
 - Coming up with a new scheme for a small business opportunity ;).
 - Passionately talking about my new standing desk.
 
-**What I've been up to this week?**
+**What I've been cooking up this week?**
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
