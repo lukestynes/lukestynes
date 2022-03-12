@@ -14,4 +14,11 @@ I am a software engineering student trying to find where I want to specialise an
 
 **What I've been cooking up this week?**
 <!--START_SECTION:waka-->
+
+```text
+Java             1 hr 46 mins    █████████████░░░░░░░░░░░░   52.00 %
+Python           1 hr 37 mins    ████████████░░░░░░░░░░░░░   47.62 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+```
+
 <!--END_SECTION:waka-->
