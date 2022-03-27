@@ -18,6 +18,7 @@ I am a software engineering student trying to find where I want to specialise an
 ```text
 Python   3 hrs 39 mins   ██████████████▒░░░░░░░░░░   57.96 %
 Java     2 hrs 38 mins   ██████████▓░░░░░░░░░░░░░░   42.04 %
+CSV      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
