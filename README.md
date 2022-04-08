@@ -16,12 +16,12 @@ I am a software engineering student trying to find where I want to specialise an
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript       1 hr 21 mins    ██████████▓░░░░░░░░░░░░░░   43.20 %
-Python           1 hr 18 mins    ██████████▒░░░░░░░░░░░░░░   41.45 %
-Java             15 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 %
-CSS              11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 %
-JSON             1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
-CLASS            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+JavaScript       1 hr 21 mins    ███████████████▒░░░░░░░░░   60.83 %
+Python           23 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.56 %
+Java             15 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.42 %
+CSS              11 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 %
+JSON             1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+CLASS            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
 ```
 
 <!--END_SECTION:waka-->
