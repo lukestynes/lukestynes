@@ -16,11 +16,11 @@ I am a software engineering student trying to find where I want to specialise an
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript          53 mins         ██████████░░░░░░░░░░░░░░░   40.34 %
-Java                36 mins         ███████░░░░░░░░░░░░░░░░░░   27.56 %
-GUI_DESIGNER_FORM   29 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.76 %
-GitIgnore file      8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.35 %
-CSS                 5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 %
+Java                35 mins         ████████████████▒░░░░░░░░   65.53 %
+GitIgnore file      8 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.72 %
+CSS                 5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.89 %
+JavaScript          3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.27 %
+GUI_DESIGNER_FORM   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
 ```
 
 <!--END_SECTION:waka-->
