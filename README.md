@@ -16,10 +16,8 @@ I am a software engineering student trying to find where I want to specialise an
 <!--START_SECTION:waka-->
 
 ```text
-Java                1 hr 58 mins    ████████████████████████▓   98.40 %
-GUI_DESIGNER_FORM   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
-GitIgnore file      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
-Other               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+Java             2 hrs 41 mins   █████████████████████████   99.68 %
+Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
