@@ -16,9 +16,9 @@ I am a software engineering student trying to find where I want to specialise an
 <!--START_SECTION:waka-->
 
 ```text
-Java         3 hrs 6 mins    ████████████████████████░   96.10 %
-JavaScript   6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
-Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+Java         2 hrs           ███████████████████████▓░   94.10 %
+JavaScript   6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 %
+Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
 CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
