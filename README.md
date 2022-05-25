@@ -16,9 +16,8 @@ I am a software engineering student trying to find where I want to specialise an
 <!--START_SECTION:waka-->
 
 ```text
-Python           3 hrs 11 mins   █████████████░░░░░░░░░░░░   51.81 %
-Java             2 hrs 55 mins   ████████████░░░░░░░░░░░░░   47.45 %
-GitIgnore file   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+Java     10 hrs 17 mins  ███████████████████░░░░░░   76.29 %
+Python   3 hrs 11 mins   ██████░░░░░░░░░░░░░░░░░░░   23.71 %
 ```
 
 <!--END_SECTION:waka-->
