@@ -16,7 +16,9 @@ I am a software engineering student trying to find where I want to specialise an
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+JavaScript   10 mins         ███████████████████▓░░░░░   79.32 %
+C            2 mins          █████░░░░░░░░░░░░░░░░░░░░   20.36 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
 ```
 
 <!--END_SECTION:waka-->
