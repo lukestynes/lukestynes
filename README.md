@@ -7,12 +7,12 @@
 I am a software engineering student trying to find where I want to specialise and direct my career. I currently love all aspects of development and engineering and am open to anything.
 
 **What I'm currently up to?**
-- This year I'm taking a wide range of papers ranging from alogrithms to intergrated systems. We have a focus on Java and Python development and are being exposed to the world of Object Oriented Programming.
-- In my personal time I am currently learning about the world of front-end web development and the frameworks that come with it.
-- Coming up with a new scheme for a small business opportunity ;).
-- Passionately talking about my new standing desk.
+- This semester I'm taking a range of papers including Databases, Imbedded Systems, Networking, and Discrete Math. There's some new languages to me coming up including C and SQL.
+- In my personal time I am currently learning about Javascript and it's uses for development, including GatsbyJS. Also toying around with Django for Python to learn about creating full stack apps.
+- Working on creating a web creative agency specialising in web design and brand consulting helping to push businesses lagging behind to embrace technology and enhance their digital identity.
+- Running events for Entre, the University entrepeneurship club.
 
-**What I've been cooking up this week?**
+**What I've been coding up this week?**
 <!--START_SECTION:waka-->
 
 ```text
