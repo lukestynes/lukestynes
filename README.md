@@ -16,8 +16,8 @@ I am a software engineering student trying to find where I want to specialise an
 <!--START_SECTION:waka-->
 
 ```text
-C       6 hrs 5 mins    ████████████████████████▓   98.74 %
-Text    4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+C       6 hrs 25 mins   ████████████████████████▓   98.80 %
+Text    4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
 Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
