@@ -16,9 +16,8 @@ I am a software engineering student trying to find where I want to specialise an
 <!--START_SECTION:waka-->
 
 ```text
-SQL      53 mins         ██████████████████▓░░░░░░   74.74 %
-C        18 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.24 %
-Python   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+SQL   53 mins         ██████████████████▓░░░░░░   74.76 %
+C     18 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.24 %
 ```
 
 <!--END_SECTION:waka-->
