@@ -16,10 +16,10 @@ I am a software engineering student trying to find where I want to specialise an
 <!--START_SECTION:waka-->
 
 ```text
-C            7 hrs 56 mins   ██████████████████████▒░░   89.50 %
-Makefile     37 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.08 %
-Git Config   17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+C            8 hrs 26 mins   ██████████████████████▓░░   90.06 %
+Makefile     37 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.70 %
+Git Config   17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
