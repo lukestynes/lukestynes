@@ -16,7 +16,8 @@ I am a software engineering student trying to find where I want to specialise an
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Python   7 mins          ███████████████████████▓░   95.01 %
+Other    0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.99 %
 ```
 
 <!--END_SECTION:waka-->
