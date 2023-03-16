@@ -14,9 +14,4 @@ I am a software engineering student trying to find where I want to specialise an
 
 **What I've been coding up this week?**
 <!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
