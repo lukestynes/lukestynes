@@ -8,8 +8,7 @@ I am a software engineering student trying to find where I want to specialise an
 
 **What I'm currently up to?**
 - This semester I'm taking a range of papers including Web Computing Architecture, Formal Languages and Compilers, Internet Technology and Networking, and Software Engineering II. I'm most interested currently by Web Computing Architecture as we are diving into creating web apps and making our own API's.
-- In my personal time I am currently learning about Javascript and it's uses for development, including GatsbyJS. Also toying around with Django for Python to learn about creating full stack apps.
-- Working on creating a web creative agency specialising in web design and brand consulting helping to push businesses lagging behind to embrace technology and enhance their digital identity.
+- In my personal time I am currently learning about Javascript and it's uses for development, including GatsbyJS. The plan is to create myself a developer portfolio website from scratch in the semester break
 
 
 **What I've been coding up this week?**
