@@ -13,4 +13,13 @@ I am a software engineering student trying to find where I want to specialise an
 
 **What I've been coding up this week?**
 <!--START_SECTION:waka-->
+
+```text
+HTML       17 mins         █████████████████░░░░░░░░   68.38 %
+Python     7 mins          ███████░░░░░░░░░░░░░░░░░░   27.79 %
+Text       0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
+Markdown   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+```
+
 <!--END_SECTION:waka-->
