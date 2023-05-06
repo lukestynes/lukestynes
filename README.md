@@ -15,12 +15,11 @@ I am a software engineering student trying to find where I want to specialise an
 <!--START_SECTION:waka-->
 
 ```text
-Java             1 hr 58 mins    █████████▒░░░░░░░░░░░░░░░   37.97 %
-Python           58 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.91 %
-Groovy           50 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.10 %
-HTML             29 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.47 %
-Gherkin          26 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 %
-Gradle           13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 %
+TypeScript       2 hrs 28 mins   ███████▒░░░░░░░░░░░░░░░░░   29.70 %
+Java             1 hr 58 mins    ██████░░░░░░░░░░░░░░░░░░░   23.69 %
+Python           58 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.80 %
+Groovy           50 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.05 %
+HTML             33 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.63 %
 ```
 
 <!--END_SECTION:waka-->
