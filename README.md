@@ -15,11 +15,11 @@ I am a third year software engineering student trying to find where I want to sp
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript      13 hrs 44 mins  ████████████████████████░   96.06 %
-CSS             19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
-JavaScript      6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
-.env file       3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
-JSON            2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+TypeScript   6 hrs 4 mins    ████████████████████████▒   96.91 %
+CSS          7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
+.env file    3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
+Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
 <!--END_SECTION:waka-->
