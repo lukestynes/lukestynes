@@ -14,12 +14,8 @@ I am a third year software engineering student trying to find where I want to sp
 **What I've been developing in this week:**
 <!--START_SECTION:waka-->
 
-```text
-TypeScript   6 hrs 4 mins    ████████████████████████▒   96.91 %
-CSS          7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
-.env file    3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+```txt
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
