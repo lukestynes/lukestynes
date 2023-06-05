@@ -15,7 +15,8 @@ I am a third year software engineering student trying to find where I want to sp
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   0 secs          █████████████████████████   100.00 %
+Markdown   0 secs          █████████████████████░░░░   84.18 %
+Java       0 secs          ████░░░░░░░░░░░░░░░░░░░░░   15.82 %
 ```
 
 <!--END_SECTION:waka-->
