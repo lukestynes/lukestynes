@@ -15,8 +15,9 @@ I am a third year software engineering student trying to find where I want to sp
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   0 secs          █████████████████████░░░░   84.18 %
-Java       0 secs          ████░░░░░░░░░░░░░░░░░░░░░   15.82 %
+Java             2 hrs 11 mins   ███████████████████░░░░░░   75.92 %
+Markdown         40 mins         ██████░░░░░░░░░░░░░░░░░░░   23.41 %
+GitIgnore file   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
 ```
 
 <!--END_SECTION:waka-->
