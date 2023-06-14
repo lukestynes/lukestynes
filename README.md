@@ -15,8 +15,7 @@ I am a third year software engineering student trying to find where I want to sp
 <!--START_SECTION:waka-->
 
 ```txt
-Java       2 hrs 19 mins   ██████████████████▒░░░░░░   73.20 %
-Markdown   50 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.80 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
