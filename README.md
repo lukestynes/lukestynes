@@ -15,9 +15,9 @@ I am a third year software engineering student trying to find where I want to sp
 <!--START_SECTION:waka-->
 
 ```txt
-Python       5 hrs 3 mins    ███████████████████████▒░   93.07 %
-TypeScript   22 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.77 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+Python       5 hrs 3 mins    ████████████████████████▓   98.20 %
+TypeScript   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
