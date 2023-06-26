@@ -15,7 +15,11 @@ I am a third year software engineering student trying to find where I want to sp
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+TypeScript   50 mins         █████████████████████░░░░   83.69 %
+JSON         4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.33 %
+CSS          2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 %
+Python       2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
 ```
 
 <!--END_SECTION:waka-->
