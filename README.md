@@ -15,10 +15,11 @@ I am a third year software engineering student trying to find where I want to sp
 <!--START_SECTION:waka-->
 
 ```txt
-Python       34 mins         ████████████████████▓░░░░   83.15 %
-TypeScript   6 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.54 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+Python           50 mins         ███████████░░░░░░░░░░░░░░   44.42 %
+Java             31 mins         ███████░░░░░░░░░░░░░░░░░░   27.45 %
+Groovy           15 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.85 %
+GitIgnore file   8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.11 %
+TypeScript       6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.10 %
 ```
 
 <!--END_SECTION:waka-->
