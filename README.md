@@ -15,11 +15,11 @@ I am a third year software engineering student trying to find where I want to sp
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript       6 hrs 13 mins   █████████████░░░░░░░░░░░░   51.88 %
-Rust             3 hrs           ██████▒░░░░░░░░░░░░░░░░░░   25.06 %
-Python           1 hr 22 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.39 %
-Java             31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 %
-Groovy           15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
+TypeScript       6 hrs 6 mins    █████████████░░░░░░░░░░░░   51.41 %
+Rust             3 hrs           ██████▒░░░░░░░░░░░░░░░░░░   25.31 %
+Python           1 hr 22 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.50 %
+Java             31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 %
+Groovy           15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
 ```
 
 <!--END_SECTION:waka-->
