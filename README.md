@@ -15,11 +15,11 @@ I am a third-year software engineering student at the University of Canterbury. 
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   9 hrs 5 mins    █████████████████▓░░░░░░░   70.10 %
-HTML         2 hrs 25 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.72 %
-Java         30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
-XML          21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
-JSON         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
+TypeScript   9 hrs 5 mins    ████████████████▓░░░░░░░░   66.38 %
+HTML         2 hrs 56 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.40 %
+Java         49 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 %
+XML          24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
+JSON         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
 ```
 
 <!--END_SECTION:waka-->
