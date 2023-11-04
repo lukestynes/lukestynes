@@ -15,11 +15,11 @@ I am a third-year software engineering student at the University of Canterbury. 
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   44 mins         ████████████████▒░░░░░░░░   65.21 %
-Git Config   16 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.71 %
-JSON         4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.98 %
-JavaScript   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
-CSS          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
+TypeScript       44 mins         █████████████▒░░░░░░░░░░░   53.63 %
+Git Config       16 mins         █████░░░░░░░░░░░░░░░░░░░░   20.32 %
+GitIgnore file   14 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.76 %
+JSON             4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.74 %
+JavaScript       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
 ```
 
 <!--END_SECTION:waka-->
