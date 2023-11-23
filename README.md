@@ -15,11 +15,9 @@ I am a third-year software engineering student at the University of Canterbury. 
 <!--START_SECTION:waka-->
 
 ```txt
-Python       9 hrs 57 mins   ███████████████████████░░   92.23 %
-TypeScript   29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 %
-Other        14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
-INI          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
-Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Python       10 hrs          ███████████████████████▓░   95.29 %
+TypeScript   29 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
