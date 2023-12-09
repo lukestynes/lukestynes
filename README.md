@@ -15,9 +15,9 @@ I am a third-year software engineering student at the University of Canterbury. 
 <!--START_SECTION:waka-->
 
 ```txt
-Python       25 hrs 37 mins  ████████████████████████▓   98.66 %
-Other        19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
-Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+Python       25 hrs 53 mins  ████████████████████████▓   98.54 %
+Other        21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
