@@ -15,8 +15,7 @@ I am a third-year software engineering student at the University of Canterbury. 
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   0 secs          ████████████████████▒░░░░   80.75 %
-Python       0 secs          ████▓░░░░░░░░░░░░░░░░░░░░   19.25 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
