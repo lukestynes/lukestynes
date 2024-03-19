@@ -17,9 +17,8 @@ I'm on the look out for internships in and around Wellington for the 2024/25 Sum
 <!--START_SECTION:waka-->
 
 ```txt
-Python   4 hrs           ████████████████████████▓   98.64 %
-JSON     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Python   2 hrs 28 mins   ████████████████████████▒   97.92 %
+JSON     3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
 ```
 
 <!--END_SECTION:waka-->
