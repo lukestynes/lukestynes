@@ -14,4 +14,5 @@ I'm on the look out for internships in and around Wellington for the 2024/25 Sum
 
 
 **What I've been coding in this week:**
+
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lstynes)](https://github.com/anuraghazra/github-readme-stats)
